@@ -1,3 +1,3 @@
 # Kokoa Clone 2022
 
-CSS got so much better
+I'm going to make kokoa talk!
