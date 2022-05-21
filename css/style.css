@@ -24,6 +24,11 @@ body{
 #login-form{
     margin: 0px 30px;
     display: flex;
-    flex-direction: column;
-    
+    flex-direction: column;    
+}
+
+#login-form input{
+    border: none;
+    padding: 15px 0px;
+    font-size: 18px;
 }
