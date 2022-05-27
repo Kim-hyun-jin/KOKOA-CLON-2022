@@ -18,7 +18,6 @@
 }
 
 .nav__notification{
-
     position: absolute;
     bottom: 10px; left: 15px;
 }
@@ -30,7 +29,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
     color: white;
     position: absolute;
     bottom: 20px; left: 20px;
+}
+.next-gear{
+    background-color: tomato;
+    width: 4px;
+    height: 4px;
+    border-radius: 2px;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 20px;   
 }
